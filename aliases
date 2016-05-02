@@ -1,0 +1,7 @@
+alias vim="/usr/local/Cellar/vim/7.4.1525/bin/vim"
+alias vi="/usr/local/Cellar/vim/7.4.1525/bin/vim"
+alias testit="grunt --cucumberOpts.format=pretty --cucumberOpts.tags=@WIP"
+alias testitprod="grunt --cucumberOpts.format=pretty --cucumberOpts.tags=@COMPLETED"
+alias jmeterslaves="itermocil jmeter && exit"
+alias proxy="node ~/Node/cmp/node-cmp/server.js --trace-sync-io"
+alias webide="/Applications/WebStorm.app/Contents/MacOS/webide"
