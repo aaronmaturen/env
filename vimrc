@@ -38,6 +38,8 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'myusuf3/numbers.vim'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'pmsorhaindo/syntastic-local-eslint.vim'
+Plugin 'raimondi/delimitmate'
+Plugin 'ervandew/supertab'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
