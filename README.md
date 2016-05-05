@@ -1,3 +1,10 @@
+
+```
+$ brew install python
+$ brew install vim --env-std --override-system-vim
+$ pip install https://github.com/Lokaltog/powerline/tarball/develop
+```
+
 setup vundle
 
 ```
@@ -18,7 +25,3 @@ $ chsh -s ${path}
 ```
 
 
-```
-# pip install https://github.com/Lokaltog/powerline/tarball/develop
-
-```
